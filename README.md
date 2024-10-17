@@ -1,5 +1,5 @@
 # Laboratoris
-
+test
 |![](figs/logo.png)              |   ![](figs/institute.png)              |
 |-----------------|-----------------|
 | **Denominació** | Administració i Manteniment de Sistemes i Aplicacions |
